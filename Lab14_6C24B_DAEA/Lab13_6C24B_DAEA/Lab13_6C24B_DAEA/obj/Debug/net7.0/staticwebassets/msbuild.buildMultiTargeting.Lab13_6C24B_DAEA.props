@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Lab13_6C24B_DAEA.props" />
+</Project>
